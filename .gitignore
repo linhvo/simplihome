@@ -1,2 +1,8 @@
+.DS_Store
+node_modules/
+bower_modules/
 .idea
 *.pyc
+
+# Don't track build output
+dist/
